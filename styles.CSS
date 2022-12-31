@@ -69,7 +69,7 @@ footer{
 
     .main-img-{
         display: block;
-        max-width: 50%;
+        width: 300px;
         height: 250px;
     }
     
