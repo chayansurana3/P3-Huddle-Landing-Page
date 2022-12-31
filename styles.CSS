@@ -18,7 +18,7 @@ p{
 
 .main-img{
     display: inline-block;
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 
 .main-box{
@@ -69,7 +69,7 @@ footer{
 
     .main-img-mobile{
         display: block;
-        max-width: 100%;
+        max-width: 50%;
         height: 250px;
     }
     
