@@ -13,7 +13,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 
-![ScreenShot](./Screenshot.png)
+![ScreenShot](https://github.com/chayansurana3/P3-Huddle-Landing-Page/blob/314dcc461b1d1ed982bdc86bb4cf6180c34724c0/Screenshot%20.png)
 
 ## My process
 
