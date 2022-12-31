@@ -58,18 +58,18 @@ footer{
     
     body{
         background-image: url(./bg-mobile.svg);
-        width: 600px;
-        padding left: 5px;
+/*         width: 600px;
+        padding left: 5px; */
     }
     
-    html, main {
+/*     html, main {
         width: 600px;
         padding-left: 5px;
-    }
+    } */
 
     .main-img{
         display: block;
-        max-width: 25%;
+        max-width: 100px;
         height: 250px;
     }
     
